@@ -1,1 +1,1 @@
-Desenvolvido apenas para estudo
+Desenvolvido apenas para estudo.
